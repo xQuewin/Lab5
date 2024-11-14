@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\Q\Documents\Visual Studio 2022\Lab5\Lab5\Lab5\Game.cpp(32,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Q\Documents\Visual Studio 2022\Lab5\Lab5\Lab5\Game.cpp(160,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Q\Documents\Visual Studio 2022\Lab5\Lab5\Lab5\Game.cpp(239,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab5.vcxproj -> C:\Users\Q\Documents\Visual Studio 2022\Lab5\Lab5\x64\Debug\Lab5.exe
